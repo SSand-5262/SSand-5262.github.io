@@ -1,5 +1,5 @@
 # Samuel Sandoval
-Hello, I am currently in an internship at the University of Colorado Boulder!
+Hello, I am currently interning at the University of Colorado Boulder!
 <img
   src="/img/NewYorkCityCentralPark-Picture-of-me.jpeg"
   width="25%">
